@@ -8,15 +8,15 @@
 
 **Clone the repository and navigate into it:**
 
-````
+```
 
 
    git clone https://github.com/mertColpan/convolution_with_sound.git
    cd convolution_with_sound
    python3 convolution.py
 
-````
 ```
+
 
 ## 1. Custom Convolution Function – `myConv(x, n, y, m)`
 
